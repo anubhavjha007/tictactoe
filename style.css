@@ -130,7 +130,7 @@
         font-size: small;
     }
 }
-@media(max-width:358px){
+@media(max-width:370px){
     .winCont{
         font-size:3.3vh;
         height:14vh;
