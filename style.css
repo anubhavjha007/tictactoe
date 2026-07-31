@@ -147,7 +147,7 @@
         font-size: small;
     }
 }
-@media(max-width:321px){
+@media(max-width:344px){
     .winCont{
         font-size:2.8vh;
         height:14vh;
