@@ -58,6 +58,9 @@
     font-size: 10vh;
     word-spacing: 8vh;
     color:#0d3b66;
+    padding-left: 1vh;
+    padding-right: 1vh;
+    margin-top:2vh;
 
     
 }
@@ -130,7 +133,7 @@
         font-size: small;
     }
 }
-@media(max-width:370px){
+@media(max-width:368px){
     .winCont{
         font-size:3.3vh;
         height:14vh;
@@ -144,4 +147,29 @@
         font-size: small;
     }
 }
+@media(max-width:321px){
+    .winCont{
+        font-size:2.8vh;
+        height:14vh;
+        
+       
+    }
+    .container{
+        height: 48vh;
+        width:48vh;
+    }
+    }
+    .button{
+        height:12vh;
+        width:12vh;
+    }
+    .reset{
+        font-size : default;
+        height: 4vh;
+        width:8vh;
+        margin-left: 0.8vh;
+        font-size: small;
+    }
+
+
 
